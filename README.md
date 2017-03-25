@@ -1,4 +1,4 @@
-##SLAM 学习与开发经验分享![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+# SLAM 学习与开发经验分享![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 ###导语
 > 毫无疑问，SLAM是当前最酷炫的技术.在这里，我给大家分享一些在学习SLAM的过程中的一些资料与方法（不断更新中...）</br></br>
 > (推波广告)  EasyAR 开发者:605785368</br></br>
@@ -6,7 +6,7 @@
 
 ![](tae.JPG)
 
-##目录
+## 目录
 * **[入门](#入门)**
 
 * **[基础](#基础)**
@@ -27,7 +27,7 @@
 
 * **[泡泡机器人专栏公开课](#泡泡机器人专栏公开课)**
 
-##入门
+## 入门
 
 [视觉SLAM的基础知识-高翔](http://www.bilibili.com/video/av5911960/?from=search&seid=375069506917728550)(高翔博士)-----视频，吐血推荐
 
@@ -45,7 +45,7 @@
 
 [STATE ESTIMATION FOR ROBOTICS](https://pan.baidu.com/s/1pLO4Nwv) (吐血推荐)  提取码：y7tc
 
-##基础
+## 基础
 数学基础
 
 - [计算机视觉中的数学方法](https://pan.baidu.com/s/1pLwK4uJ) 提取码：afyg  ----本书着重介绍射影几何学及其在视觉中的应用
@@ -99,7 +99,7 @@ Python + SLAM
 
 
 
-##进阶
+## 进阶
 一步步实现SLAM系列教程
 
 - [一步步实现slam1-项目框架搭建](http://fengbing.net/2016/02/03/%E4%B8%80%E6%AD%A5%E6%AD%A5%E5%AE%9E%E7%8E%B0slam1-%E6%A1%86%E6%9E%B6%E6%90%AD%E5%BB%BA/)
@@ -165,7 +165,7 @@ Python + SLAM
 
 
 
-##技术博客
+## 技术博客
 [半闲居士](http://www.cnblogs.com/gaoxiang12)----高翔博士的SLAM博客（力推）
 
 - [SLAM拾萃(1)：octomap](http://www.cnblogs.com/gaoxiang12/p/5041142.html)
@@ -214,7 +214,7 @@ Python + SLAM
 
 
 
-##网站与研究组织
+## 网站与研究组织
 [泡泡机器人](http://space.bilibili.com/38737757/#!/)----泡泡机器人是中国SLAM研究爱好者自发组成的团体，在自愿条件下分享SLAM相关知识，为推动国内SLAM研究做出一点小小的贡献。
 ![](/Users/mac/Documents/SLAM-Awesome/paopao.png)
 
@@ -248,7 +248,7 @@ Python + SLAM
 
 [autoloc](http://webdiis.unizar.es/~neira/slam.html)
 
-##书籍与资料
+## 书籍与资料
 [工业机器人视觉系统组成及介绍](https://pan.baidu.com/s/1gf1KEdX)(fu78)
 
 [深度学习](https://pan.baidu.com/s/1jIKBwSu)（zyn2）
@@ -302,7 +302,7 @@ Python + SLAM
 - [An Invitation to 3-D Vision -- from Images to Geometric Models](http://vision.ucla.edu/MASKS/)----Yi Ma, Stefano Soatto, Jana Kosecka and Shankar S. Sastry, 2005
 
 
-##SLAM 方案
+## SLAM 方案
 ORB-SLAM
 
 - [ORB-SLAM（一）简介](http://www.cnblogs.com/luyb/p/5215168.html)
@@ -424,7 +424,7 @@ DTAM
 - [OpenDTAM](https://github.com/anuranbaka/OpenDTAM)----An open source implementation of DTAM
 
 
-##优秀案例
+## 优秀案例
 
 [ORB_SLAM](https://github.com/raulmur/ORB_SLAM)----多功能和单目的SLAM框架
 
@@ -453,7 +453,7 @@ DTAM
 
 [ORB_SLAM2_Android](https://github.com/FangGet/ORB_SLAM2_Android)----a repository for ORB_SLAM2 in Android
 
-##泡泡机器人公开课
+## 泡泡机器人公开课
 [【泡泡机器人公开课】第二课：深度学习及应用](http://www.rosclub.cn/post-212.html)
 
 [【泡泡机器人公开课】第三课 SVO 和 LSD_SLAM解析](http://www.rosclub.cn/post-213.html)
