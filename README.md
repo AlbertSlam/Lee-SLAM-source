@@ -1,11 +1,12 @@
-#SLAM 学习与开发经验分享![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+##SLAM 学习与开发经验分享![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 ###导语
 > 毫无疑问，SLAM是当前最酷炫的技术.在这里，我给大家分享一些在学习SLAM的过程中的一些资料与方法（不断更新中...）</br></br>
 > (推波广告)  EasyAR 开发者:605785368</br></br>
-> 当然，若觉得收集不错的话你也可以请我喝咖啡
+> 当然，若觉得收集不错的话你也可以请我喝咖啡</br>
+
 ![](tae.JPG)
 
-#目录
+##目录
 * **[入门](#入门)**
 
 * **[基础](#基础)**
@@ -533,5 +534,6 @@ DTAM
 #不断更新中...
 
 AR开发者社区：
-![](/Users/mac/Documents/SLAM-Awesome/WeChat.jpg)
+
+![](WeChat.jpg)
 
