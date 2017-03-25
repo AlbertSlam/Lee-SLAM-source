@@ -1,5 +1,6 @@
 # SLAM 学习与开发经验分享![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-###导语
+
+### 导语
 > 毫无疑问，SLAM是当前最酷炫的技术.在这里，我给大家分享一些在学习SLAM的过程中的一些资料与方法（不断更新中...）</br></br>
 > (推波广告)  EasyAR 开发者:605785368</br></br>
 > 当然，若觉得收集不错的话你也可以请我喝咖啡</br>
@@ -135,8 +136,7 @@ Python + SLAM
 
 [语义SLAM的未来与思考(2)](https://mp.weixin.qq.com/s?__biz=MzI5MTM1MTQwMw==&mid=2247486496&idx=1&sn=672421edb67a7566a8d3629596f12496&chksm=ec10b224db673b3245d7c49ac07b9e7e924b07d93992c0a4392649624178a614eb084eee5cd7&mpshare=1&scene=24&srcid=0323rFVB2RhlBb8YrM7zYgyo&key=405f89b14d07d74b9f658163a8b0fb12e76b79928dfd59dd093a011fc98c93a37d0b489893c3d90a6e2e5b8516f05b0443ac35204d4c2e3c1f28398ff9d48148aa69f818c141f08503c15445b4af2375&ascene=0&uin=NTA0OTM2NzY%3D&devicetype=iMac+MacBookAir7%2C2+OSX+OSX+10.12+build(16A323)&version=12020010&nettype=WIFI&fontScale=100&pass_ticket=XHDonKi50slr29BQ9oY9LM0lAhnHy33o2h%2Fz2ho0874%3D)
 
-[]()
-##优秀文章
+## 优秀文章
 泡泡机器人SLAM优秀技术文章
 
 - [SLAM: 现在，未来和鲁棒年代（一）](http://weixin.niurenqushi.com/article/2017-02-12/4766381.html)
@@ -216,7 +216,8 @@ Python + SLAM
 
 ## 网站与研究组织
 [泡泡机器人](http://space.bilibili.com/38737757/#!/)----泡泡机器人是中国SLAM研究爱好者自发组成的团体，在自愿条件下分享SLAM相关知识，为推动国内SLAM研究做出一点小小的贡献。
-![](/Users/mac/Documents/SLAM-Awesome/paopao.png)
+
+![](paopao.png)
 
 [ROSClub机器人俱乐部](http://www.rosclub.cn/cate-9.html)----这是一个完美的ROS机器人开发交流社区平台，在这里你可以找到你所要的！
 
