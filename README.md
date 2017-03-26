@@ -270,6 +270,8 @@ Python + SLAM
 
 [图像特征的非刚性匹配](https://pan.baidu.com/s/1eRNRf1o)(w85h)
 
+[orb-slam7.1简单重构泡泡](https://pan.baidu.com/s/1nvLlsgT)(b7fx)
+
 
 
 英文版（有些需翻墙）
@@ -453,6 +455,10 @@ DTAM
 [ORB_SLAM_iOS](https://github.com/egoist-sx/ORB_SLAM_iOS)----ORB_SLAM for iOS
 
 [ORB_SLAM2_Android](https://github.com/FangGet/ORB_SLAM2_Android)----a repository for ORB_SLAM2 in Android
+
+[Kintinuous](https://github.com/mp3guy/Kintinuous)----Real-time large scale dense visual SLAM system
+
+[ScaViSLAM](https://github.com/strasdat/ScaViSLAM)----This is a general and scalable framework for visual SLAM. It employs "Double Window Optimization" (DWO).
 
 ## 泡泡机器人公开课
 [【泡泡机器人公开课】第二课：深度学习及应用](http://www.rosclub.cn/post-212.html)
