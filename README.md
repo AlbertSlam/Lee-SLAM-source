@@ -28,7 +28,7 @@ AR开发者社区：
 
 * **[优秀案例](#优秀案例)**
 
-* **[泡泡机器人专栏公开课](#泡泡机器人专栏公开课)**
+
 
 ## 入门
 
@@ -461,83 +461,6 @@ DTAM
 [Kintinuous](https://github.com/mp3guy/Kintinuous)----Real-time large scale dense visual SLAM system
 
 [ScaViSLAM](https://github.com/strasdat/ScaViSLAM)----This is a general and scalable framework for visual SLAM. It employs "Double Window Optimization" (DWO).
-
-## 泡泡机器人公开课
-[【泡泡机器人公开课】第二课：深度学习及应用](http://www.rosclub.cn/post-212.html)
-
-[【泡泡机器人公开课】第三课 SVO 和 LSD_SLAM解析](http://www.rosclub.cn/post-213.html)
-
-[【泡泡机器人公开课】第四课：Caffe入门与应用 by 高翔](http://www.rosclub.cn/post-216.html)
-
-[【泡泡机器人公开课】第五课：双目视觉里程计](http://www.rosclub.cn/post-217.html)
-
-[【泡泡机器人公开课】第六课：比特币介绍 by 李其乐](http://www.rosclub.cn/post-218.html)
-
-[【泡泡机器人公开课】第七课：增强现实及其应用](http://www.rosclub.cn/post-220.html)
-
-[【泡泡机器人公开课】第八课：MEMS IMU的入门与应用](http://www.rosclub.cn/post-221.html)
-
-[【泡泡机器人公开课】第九课 双目校正及视差图的计算](http://www.rosclub.cn/post-222.html)
-
-[【泡泡机器人公开课】第十课 IMU+动态背景消除](http://www.rosclub.cn/post-223.html)
-
-[【泡泡机器人公开课】第十一课：COP-SLAM by 杨俊](http://www.rosclub.cn/post-224.html)
-
-[【泡泡机器人公开课】第十二课：SLAM综述ORB-LSD-SVO by 刘浩敏](http://www.rosclub.cn/post-225.html)
-
-[【泡泡机器人公开课】第十三课：CUDA 优化代码 by 张也冬](http://www.rosclub.cn/post-226.html)
-
-[【泡泡机器人公开课】第十四课：KinectFusion、ElasticFusion 论文和代码解析](http://www.rosclub.cn/post-227.html)
-
-[【泡泡机器人公开课】第十五课：视觉SLAM中的矩阵李群基础](http://www.rosclub.cn/post-228.html)
-
-[【泡泡机器人公开课】第十六课：rosbridge原理及应用](http://www.rosclub.cn/post-229.html)
-
-[【泡泡机器人公开课】第十七课：SLAM 优化与求解](http://www.rosclub.cn/post-230.html)
-
-[【泡泡机器人公开课】第十八课：Direct方法的原理与实现](http://www.rosclub.cn/post-231.html)
-
-[【泡泡机器人公开课】第十九课：图像技术在AR中的实践](http://www.rosclub.cn/post-232.html)
-
-[【泡泡机器人公开课】第二十课：路径规划](http://www.rosclub.cn/post-233.html)
-
-[【泡泡机器人公开课】第二十一课：ORB-SLAM简单重构](http://www.rosclub.cn/post-234.html)
-
-[【泡泡机器人公开课】第二十二课：LeastSquare_and_gps_fusion](http://www.rosclub.cn/post-235.html)
-
-[【泡泡机器人公开课】第二十三课：Scan Matching in 2D SLAM](http://www.rosclub.cn/post-236.html)
-
-[【泡泡机器人公开课】第二十四课：LSD-SLAM深度解析](http://www.rosclub.cn/post-237.html)
-
-[【泡泡机器人公开课】第二十五课：激光SLAM](http://www.rosclub.cn/post-238.html)
-
-[【泡泡机器人公开课】第二十六课：TSL安全网络传输协议简介](http://www.rosclub.cn/post-240.html)
-
-[【泡泡机器人公开课】第二十七课：Textureless Object Tracking](http://www.rosclub.cn/post-242.html)
-
-[【泡泡机器人公开课】第二十八课：基于光流的视觉控制](http://www.rosclub.cn/post-243.html)
-
-[【泡泡机器人公开课】第二十九课：Robust Camera Location Estimation](http://www.rosclub.cn/post-244.html)
-
-[【泡泡机器人公开课】第三十课:非线性优化与g2o](http://www.rosclub.cn/post-245.html)
-
-[【泡泡机器人公开课】第三十一课：G2O简介](http://www.rosclub.cn/post-247.html)
-
-[【泡泡机器人公开课】第三十二课：我们如何定位SLAM？](http://www.rosclub.cn/post-499.html)
-
-[【泡泡机器人公开课】第三十三课：矩阵流形上的优化介绍](http://www.rosclub.cn/post-500.html)
-
-[【泡泡机器人公开课】第三十四课：里程计-视觉融合SLAM](http://www.rosclub.cn/post-502.html)
-
-[【泡泡机器人公开课】第三十五课：Visualization in SLAM](http://www.rosclub.cn/post-504.html)
-
-[【泡泡机器人公开课】第三十六课：ORB-SLAM2源码详解](http://www.rosclub.cn/post-505.html)
-
-[【泡泡机器人公开课】第三十七课：Absolute Scale Estimation and Correction](http://www.rosclub.cn/post-517.html)
-
-[【泡泡机器人公开课】第三十八课：Structure Light Based3D Surface Imaging](http://www.rosclub.cn/post-564.html)
-
-[【泡泡机器人公开课】第三十九课：PnP)算法简介与代码解析](http://www.rosclub.cn/post-566.html)
 
 
 # 不断更新中...
