@@ -295,7 +295,7 @@ Python + SLAM
 
 - [Multi-Level Mapping: Real-time Dense Monocular SLAM](https://groups.csail.mit.edu/rrg/papers/greene_icra16.pdf)
 
-- [State Estimation for Robotic -- A Matrix Lie Group Approach ](http://asrl.utias.utoronto.ca/~tdb/bib/barfoot_ser15.pdf)
+- [State Estimation for Robotic -- A Matrix Lie Group Approach ](http://asrl.utias.utoronto.ca/~tdb/bib/barfoot_ser17.pdf)
 
 - [Probabilistic Robotics](http://www.probabilistic-robotics.org/)----Dieter Fox, Sebastian Thrun, and Wolfram Burgard, 2005
 
