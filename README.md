@@ -1,9 +1,8 @@
-# SLAM 学习与开发经验分享![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-
-#### By AIRX（国内领先的AI、AR、VR技术学习与交流平台）
+![](https://upload-images.jianshu.io/upload_images/25453958-a09b626a3467c4cc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+## By 三次方（三次方•数字化人才在线教育平台）[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 #### 添加微信入群：AIRX001
 #### 微信公众号：三次方AIRX
-![AR Portal](https://upload-images.jianshu.io/upload_images/3016913-0d7f06621db6fc4c.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240 'AR-Portal')
+![三次方](https://upload-images.jianshu.io/upload_images/25453958-4c94d732ba430b08.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240 'AIRX')
 
 ### 导语
 > 毫无疑问，SLAM是当前最酷炫的技术.在这里，我给大家分享一些在学习SLAM的过程中的一些资料与方法（不断更新中...）</br></br>
